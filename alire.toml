@@ -1,0 +1,12 @@
+name = "cadalc"
+description = ""
+version = "0.1.0-dev"
+
+authors = ["Daruyami"]
+maintainers = ["Daruyami <shadedgreen65@gmail.com>"]
+maintainers-logins = ["daruyami"]
+licenses = "MIT"
+website = ""
+tags = []
+
+executables = ["cadalc"]
